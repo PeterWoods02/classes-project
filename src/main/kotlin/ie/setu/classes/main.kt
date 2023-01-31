@@ -32,5 +32,5 @@ fun personInfo(){
     if (person1.equals(person3))
         println("person1 is equal to person3.")
     else
-        println("person1 is not equal to person3.")
+        println("person1 is not equal to person3..")
 }
